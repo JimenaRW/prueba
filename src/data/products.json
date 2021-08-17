@@ -1,0 +1,22 @@
+[
+    {
+        "titulo" : "titulo",
+        "numero" : 6,
+        "marca" : "cbc"
+    },
+    {
+        "titulo" : "lele",
+        "numero" : 2,
+        "marca" : "rey-ban"
+    },
+    {
+        "titulo" : "zili",
+        "numero" : 10,
+        "marca" : "arcor"
+    },
+    {
+        "titulo" : "maco",
+        "numero" : 1,
+        "marca" : "arcor"
+    }
+]
